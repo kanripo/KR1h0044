@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 四書蒙引
-#+DATE: 2018-03-28 13:09:42.601954
+#+DATE: 2018-03-28 13:09:42.890713
 #+PROPERTY: ID KR1h0044
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷四
 <pb:KR1h0044_WYG_010-1a>¶
 性而極道體之大者至矣又曰義理微繭絲牛毛則所以道問學而極夫道體之細者至矣如是則至徳備而至道凝矣不謂聖人而何盖亦由學知利行而至於聖域者也¶
